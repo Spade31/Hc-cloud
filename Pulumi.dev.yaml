@@ -1,0 +1,4 @@
+config:
+  hcloud:token:
+    secure: AAABAERbnnUEJq+fD+Oc6APH+L2awkXqR96LqOJOex7V/cCg66Gux3T1mDgRpWYUlsWuQ9yqKD2kfkbJtcyO4r0J+wOCRro/BBYJL2IE6wJUybPX0+kuz1P2W2csg/il
+  hcloud:serverType: cx22
